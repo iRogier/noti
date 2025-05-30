@@ -17,4 +17,4 @@ import { Notification } from './notifications/notification.entity';
     synchronize: true,
   }), NotificationsModule],
 })
-export class AppModule {}
+export class AppModule {}
