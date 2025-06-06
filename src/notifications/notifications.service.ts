@@ -45,5 +45,5 @@ export class NotificationsService {
 
   async findAll() {
     return this.notificationRepository.find();
-  }
+    }
 }
